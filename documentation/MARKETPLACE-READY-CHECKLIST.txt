@@ -1,0 +1,22 @@
+AEVION DENTAL — MARKETPLACE READY CHECKLIST
+
+THE APPROVED WEBSITE DESIGN AND ANIMATIONS WERE PRESERVED.
+
+ADDED
+- Privacy Policy footer link and page
+- Terms of Use footer link and page
+- Accessibility Statement footer link and page
+- Responsive footer legal-link styling
+- Marketplace launch checklist
+
+BEFORE LISTING
+[ ] Replace all placeholder clinic names, addresses, phone numbers, and emails
+[ ] Replace demonstration doctor names and credentials
+[ ] Replace preview photography with properly licensed final images
+[ ] Connect and test the appointment form
+[ ] Confirm insurance and payment wording
+[ ] Update SEO title, description, canonical URL, and social preview
+[ ] Review legal pages for the buyer’s jurisdiction
+[ ] Add the marketplace’s final license file
+[ ] Test gallery movement, doctor carousel, service movement, navigation, and mobile layout
+[ ] Test all three legal footer links

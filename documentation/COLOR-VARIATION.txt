@@ -1,0 +1,6 @@
+AEVION DENTAL — BLUE COLOR VARIATION
+
+This package uses the Blue palette.
+
+Only assets/css/styles.css differs between color variations.
+The approved layout, content, animations, JavaScript, legal pages, and responsive behavior are unchanged.

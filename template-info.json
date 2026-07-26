@@ -1,0 +1,22 @@
+{
+  "name": "Aevion Dental Premium",
+  "version": "11.0.0",
+  "features": [
+    "continuous clinic rail",
+    "7-second doctor slider",
+    "continuous services rail",
+    "scroll reveals",
+    "one-page navigation",
+    "Google Maps",
+    "booking form",
+    "JavaScript clinic rail",
+    "JavaScript services rail",
+    "reliable continuous motion"
+  ],
+  "fixes": [
+    "broken image sources",
+    "insurance numbers removed",
+    "footer layout repaired",
+    "services booking button"
+  ]
+}

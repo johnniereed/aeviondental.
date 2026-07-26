@@ -1,0 +1,40 @@
+{
+  "statement": "All original approved website files are byte-for-byte identical.",
+  "verified_files": {
+    "index.html": {
+      "original_sha256": "1e8c698f15bf2b6162a998623c1ae3ccc569c47fe8a47bfb0e5e40047802297c",
+      "packaged_sha256": "1e8c698f15bf2b6162a998623c1ae3ccc569c47fe8a47bfb0e5e40047802297c",
+      "identical": true
+    },
+    "README.txt": {
+      "original_sha256": "9987a462bbb482c764aa3fe6b84cea26ba18552b8f967d3f3a49ae1c41bbc245",
+      "packaged_sha256": "9987a462bbb482c764aa3fe6b84cea26ba18552b8f967d3f3a49ae1c41bbc245",
+      "identical": true
+    },
+    "template-info.json": {
+      "original_sha256": "4c90c22902af67ef0b18015e359b41ab64dfc3aeaeb021f8d7b5abfab5b1cc28",
+      "packaged_sha256": "4c90c22902af67ef0b18015e359b41ab64dfc3aeaeb021f8d7b5abfab5b1cc28",
+      "identical": true
+    },
+    "documentation/index.html": {
+      "original_sha256": "74220db1d1c74994c330897843c7a4c7a1dc781a1dfdd737e0bfab5d2ebb53ff",
+      "packaged_sha256": "74220db1d1c74994c330897843c7a4c7a1dc781a1dfdd737e0bfab5d2ebb53ff",
+      "identical": true
+    },
+    "assets/css/styles.css": {
+      "original_sha256": "c7666c5cee2d68de444fc71b06ed272e17ea2a054c6a18c41ec8360576168e1a",
+      "packaged_sha256": "c7666c5cee2d68de444fc71b06ed272e17ea2a054c6a18c41ec8360576168e1a",
+      "identical": true
+    },
+    "assets/js/app.js": {
+      "original_sha256": "c8fa883542d0308f2cbdf7695ec62d4f19854e7088af50005c96290cfe31e08e",
+      "packaged_sha256": "c8fa883542d0308f2cbdf7695ec62d4f19854e7088af50005c96290cfe31e08e",
+      "identical": true
+    },
+    "assets/icons/logo.svg": {
+      "original_sha256": "0232def2fffc5481d77b69964c043b34d610f04a1dbfd7b2cd99de6e9e59842e",
+      "packaged_sha256": "0232def2fffc5481d77b69964c043b34d610f04a1dbfd7b2cd99de6e9e59842e",
+      "identical": true
+    }
+  }
+}

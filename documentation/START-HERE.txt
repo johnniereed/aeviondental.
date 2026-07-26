@@ -1,0 +1,41 @@
+AEVION DENTAL — START HERE
+
+This marketplace package contains the exact approved website build.
+
+The original website files were not modified:
+- index.html
+- assets/css/styles.css
+- assets/js/app.js
+- existing icons, documentation, and support files
+
+PREVIEW
+Open index.html in a browser.
+
+CUSTOMIZE
+1. Open index.html to replace clinic text, doctors, services, insurance details, address, phone, and email.
+2. Replace image URLs in index.html with the customer's licensed images.
+3. Edit colors near the top of assets/css/styles.css.
+4. Connect the appointment form inside assets/js/app.js or replace it with the customer's booking provider.
+
+HOSTING
+This is a static HTML website. No build command is required.
+
+Netlify:
+Upload the complete Aevion-Dental folder.
+
+Cloudflare Pages:
+Framework preset: None
+Build command: leave blank
+Output directory: /
+
+GitHub Pages:
+Upload the folder contents to the repository root and enable Pages.
+
+BEFORE SELLING OR PUBLISHING
+- Replace placeholder clinic information.
+- Replace demo doctor names and credentials.
+- Replace remote preview photos with licensed local images.
+- Connect and test the appointment form.
+- Verify insurance and payment statements.
+- Add final privacy, terms, and accessibility pages.
+- Test desktop, tablet, mobile, and all navigation links.

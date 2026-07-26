@@ -1,0 +1,5 @@
+LICENSE PLACEHOLDER
+
+Replace this file with the marketplace license you choose before distribution.
+
+Remote photographs, Google Maps, fonts, and other third-party resources remain subject to their own licenses and terms.

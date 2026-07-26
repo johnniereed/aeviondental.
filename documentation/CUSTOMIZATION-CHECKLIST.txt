@@ -1,0 +1,40 @@
+AEVION DENTAL — CUSTOMER CHECKLIST
+
+BRANDING
+[ ] Replace logo if needed
+[ ] Adjust colors
+[ ] Replace clinic name
+
+BUSINESS INFORMATION
+[ ] Phone
+[ ] Email
+[ ] Address
+[ ] Hours
+[ ] Google Maps location
+
+CONTENT
+[ ] Doctors and credentials
+[ ] Services
+[ ] Insurance/payment wording
+[ ] Appointment text
+
+IMAGES
+[ ] Replace all preview images
+[ ] Use licensed images
+[ ] Optimize images as WebP or AVIF
+[ ] Test every image after deployment
+
+FUNCTIONALITY
+[ ] Connect appointment form
+[ ] Test form success and error behavior
+[ ] Test phone and email links
+[ ] Test moving clinic gallery
+[ ] Test doctor carousel
+[ ] Test moving services rail
+
+LAUNCH
+[ ] Add final privacy policy
+[ ] Add terms
+[ ] Add accessibility statement
+[ ] Update SEO title and description
+[ ] Test mobile and desktop

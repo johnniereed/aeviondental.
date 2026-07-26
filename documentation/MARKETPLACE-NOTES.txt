@@ -1,0 +1,12 @@
+MARKETPLACE NOTES
+
+The website itself is untouched from the approved version.
+
+This package only adds:
+- START-HERE.txt
+- CUSTOMIZATION-CHECKLIST.txt
+- MARKETPLACE-NOTES.txt
+- SOURCE-INTEGRITY.json
+- LICENSE-MARKETPLACE-PLACEHOLDER.txt
+
+No animation, layout, styling, or JavaScript logic was changed.
